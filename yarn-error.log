@@ -1,0 +1,53 @@
+Arguments: 
+  /Users/Hayden/.nvm/versions/node/v10.15.1/bin/node /Users/Hayden/.nvm/versions/node/v10.15.1/bin/yarn
+
+PATH: 
+  /Users/Hayden/.nvm/versions/node/v10.15.1/bin:/Users/hayden/.rvm/gems/ruby-2.3.1/bin:/Users/hayden/.rvm/gems/ruby-2.3.1@global/bin:/Users/hayden/.rvm/rubies/ruby-2.3.1/bin:/Users/Hayden/Library/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/hayden/.rvm/gems/ruby-2.3.1/bin:/Users/hayden/.rvm/gems/ruby-2.3.1@global/bin:/Users/hayden/.rvm/rubies/ruby-2.3.1/bin:/Users/Hayden/Library/flutter/bin:/Users/Hayden/Library/Android/sdk/platform-tools/:/Users/Hayden/Library/Android/sdk/tools:/Users/Hayden/arcanist/bin:/usr/local/mysql/bin:/Users/Hayden/.rvm/bin:/Users/Hayden/Library/Android/sdk/platform-tools/:/Users/Hayden/Library/Android/sdk/tools:/Users/Hayden/arcanist/bin:/usr/local/mysql/bin:/Users/Hayden/.rvm/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, unlink '/Users/Hayden/Code/Messier78/Diend/node_modules/@babel/code-frame/README.md'
+
+npm manifest: 
+  {
+    "name": "diend",
+    "version": "1.0.0-dev.1",
+    "description": "简装山寨vue",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Haaayden/Diend.git"
+    },
+    "keywords": [
+      "vue"
+    ],
+    "author": "Haaayden",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Haaayden/Diend/issues"
+    },
+    "homepage": "https://github.com/Haaayden/Diend#readme",
+    "devDependencies": {
+      "tslint": "^5.18.0",
+      "typescript": "^3.5.3",
+      "webpack-cli": "^3.3.6",
+      "ts-loader": "^6.0.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
