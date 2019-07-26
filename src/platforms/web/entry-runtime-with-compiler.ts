@@ -1,9 +1,3 @@
-const Diend = {
-  diend: 'kamen rider diend',
-}
-
-function add() {
-  console.log('function add')
-}
+import Diend from '../../core/instance/index'
 
 export default Diend
