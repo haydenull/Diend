@@ -1,5 +1,5 @@
 function Diend() {
-  console.log('=== Diend ===')
+  console.log('=== Kamen Rider Diend ===')
 }
 
 export default Diend

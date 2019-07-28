@@ -1,1 +1,1 @@
-console.log(window.Diend)
+new Diend()

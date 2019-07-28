@@ -6,7 +6,7 @@ module.exports = {
   devtool: 'inline-source-map',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'ded.min.js',
+    filename: 'diend.min.js',
     libraryTarget: 'umd',
     library: 'Diend',
     libraryExport: 'default',
