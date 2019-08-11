@@ -1,3 +1,3 @@
-import Diend from '../../core/instance/index'
+import Diend from '../../core/index'
 
 export default Diend
